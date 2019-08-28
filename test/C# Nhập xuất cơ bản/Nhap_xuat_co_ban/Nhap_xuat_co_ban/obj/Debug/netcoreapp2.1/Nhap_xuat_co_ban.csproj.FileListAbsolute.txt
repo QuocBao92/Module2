@@ -1,0 +1,11 @@
+D:\code gym\module 2\test\C# Nhập xuất cơ bản\Nhap_xuat_co_ban\Nhap_xuat_co_ban\bin\Debug\netcoreapp2.1\Nhap_xuat_co_ban.deps.json
+D:\code gym\module 2\test\C# Nhập xuất cơ bản\Nhap_xuat_co_ban\Nhap_xuat_co_ban\bin\Debug\netcoreapp2.1\Nhap_xuat_co_ban.runtimeconfig.json
+D:\code gym\module 2\test\C# Nhập xuất cơ bản\Nhap_xuat_co_ban\Nhap_xuat_co_ban\bin\Debug\netcoreapp2.1\Nhap_xuat_co_ban.runtimeconfig.dev.json
+D:\code gym\module 2\test\C# Nhập xuất cơ bản\Nhap_xuat_co_ban\Nhap_xuat_co_ban\bin\Debug\netcoreapp2.1\Nhap_xuat_co_ban.dll
+D:\code gym\module 2\test\C# Nhập xuất cơ bản\Nhap_xuat_co_ban\Nhap_xuat_co_ban\bin\Debug\netcoreapp2.1\Nhap_xuat_co_ban.pdb
+D:\code gym\module 2\test\C# Nhập xuất cơ bản\Nhap_xuat_co_ban\Nhap_xuat_co_ban\obj\Debug\netcoreapp2.1\Nhap_xuat_co_ban.csprojAssemblyReference.cache
+D:\code gym\module 2\test\C# Nhập xuất cơ bản\Nhap_xuat_co_ban\Nhap_xuat_co_ban\obj\Debug\netcoreapp2.1\Nhap_xuat_co_ban.csproj.CoreCompileInputs.cache
+D:\code gym\module 2\test\C# Nhập xuất cơ bản\Nhap_xuat_co_ban\Nhap_xuat_co_ban\obj\Debug\netcoreapp2.1\Nhap_xuat_co_ban.AssemblyInfoInputs.cache
+D:\code gym\module 2\test\C# Nhập xuất cơ bản\Nhap_xuat_co_ban\Nhap_xuat_co_ban\obj\Debug\netcoreapp2.1\Nhap_xuat_co_ban.AssemblyInfo.cs
+D:\code gym\module 2\test\C# Nhập xuất cơ bản\Nhap_xuat_co_ban\Nhap_xuat_co_ban\obj\Debug\netcoreapp2.1\Nhap_xuat_co_ban.dll
+D:\code gym\module 2\test\C# Nhập xuất cơ bản\Nhap_xuat_co_ban\Nhap_xuat_co_ban\obj\Debug\netcoreapp2.1\Nhap_xuat_co_ban.pdb

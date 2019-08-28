@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nhap_xuat_co_ban", "Nhap_xuat_co_ban\Nhap_xuat_co_ban.csproj", "{ECC623B0-EBE2-44FE-A9AE-0389D9C05D7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vi_du", "Vi_du\Vi_du.csproj", "{E0276A84-107E-40F5-AB0C-134AC79D7D66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECC623B0-EBE2-44FE-A9AE-0389D9C05D7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECC623B0-EBE2-44FE-A9AE-0389D9C05D7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECC623B0-EBE2-44FE-A9AE-0389D9C05D7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECC623B0-EBE2-44FE-A9AE-0389D9C05D7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0276A84-107E-40F5-AB0C-134AC79D7D66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0276A84-107E-40F5-AB0C-134AC79D7D66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0276A84-107E-40F5-AB0C-134AC79D7D66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0276A84-107E-40F5-AB0C-134AC79D7D66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDA4E43E-366F-459F-BD63-0BAB3A843FC6}
+	EndGlobalSection
+EndGlobal

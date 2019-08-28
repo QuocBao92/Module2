@@ -1,0 +1,11 @@
+D:\code gym\module 2\test\class\inclass\InsertionSort\bin\Debug\netcoreapp2.2\InsertionSort.deps.json
+D:\code gym\module 2\test\class\inclass\InsertionSort\bin\Debug\netcoreapp2.2\InsertionSort.runtimeconfig.json
+D:\code gym\module 2\test\class\inclass\InsertionSort\bin\Debug\netcoreapp2.2\InsertionSort.runtimeconfig.dev.json
+D:\code gym\module 2\test\class\inclass\InsertionSort\bin\Debug\netcoreapp2.2\InsertionSort.dll
+D:\code gym\module 2\test\class\inclass\InsertionSort\bin\Debug\netcoreapp2.2\InsertionSort.pdb
+D:\code gym\module 2\test\class\inclass\InsertionSort\obj\Debug\netcoreapp2.2\InsertionSort.csprojAssemblyReference.cache
+D:\code gym\module 2\test\class\inclass\InsertionSort\obj\Debug\netcoreapp2.2\InsertionSort.csproj.CoreCompileInputs.cache
+D:\code gym\module 2\test\class\inclass\InsertionSort\obj\Debug\netcoreapp2.2\InsertionSort.AssemblyInfoInputs.cache
+D:\code gym\module 2\test\class\inclass\InsertionSort\obj\Debug\netcoreapp2.2\InsertionSort.AssemblyInfo.cs
+D:\code gym\module 2\test\class\inclass\InsertionSort\obj\Debug\netcoreapp2.2\InsertionSort.dll
+D:\code gym\module 2\test\class\inclass\InsertionSort\obj\Debug\netcoreapp2.2\InsertionSort.pdb

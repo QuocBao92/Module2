@@ -1,0 +1,11 @@
+D:\code gym\module 2\test\class\inclass\ConsoleApp1\bin\Debug\netcoreapp2.2\GiaiThua.deps.json
+D:\code gym\module 2\test\class\inclass\ConsoleApp1\bin\Debug\netcoreapp2.2\GiaiThua.runtimeconfig.json
+D:\code gym\module 2\test\class\inclass\ConsoleApp1\bin\Debug\netcoreapp2.2\GiaiThua.runtimeconfig.dev.json
+D:\code gym\module 2\test\class\inclass\ConsoleApp1\bin\Debug\netcoreapp2.2\GiaiThua.dll
+D:\code gym\module 2\test\class\inclass\ConsoleApp1\bin\Debug\netcoreapp2.2\GiaiThua.pdb
+D:\code gym\module 2\test\class\inclass\ConsoleApp1\obj\Debug\netcoreapp2.2\GiaiThua.csprojAssemblyReference.cache
+D:\code gym\module 2\test\class\inclass\ConsoleApp1\obj\Debug\netcoreapp2.2\GiaiThua.csproj.CoreCompileInputs.cache
+D:\code gym\module 2\test\class\inclass\ConsoleApp1\obj\Debug\netcoreapp2.2\GiaiThua.AssemblyInfoInputs.cache
+D:\code gym\module 2\test\class\inclass\ConsoleApp1\obj\Debug\netcoreapp2.2\GiaiThua.AssemblyInfo.cs
+D:\code gym\module 2\test\class\inclass\ConsoleApp1\obj\Debug\netcoreapp2.2\GiaiThua.dll
+D:\code gym\module 2\test\class\inclass\ConsoleApp1\obj\Debug\netcoreapp2.2\GiaiThua.pdb

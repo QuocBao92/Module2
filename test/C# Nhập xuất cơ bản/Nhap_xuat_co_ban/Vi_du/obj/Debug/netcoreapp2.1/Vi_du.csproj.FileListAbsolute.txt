@@ -1,0 +1,10 @@
+D:\code gym\module 2\test\C# Nhập xuất cơ bản\Nhap_xuat_co_ban\Vi_du\bin\Debug\netcoreapp2.1\Vi_du.deps.json
+D:\code gym\module 2\test\C# Nhập xuất cơ bản\Nhap_xuat_co_ban\Vi_du\bin\Debug\netcoreapp2.1\Vi_du.runtimeconfig.json
+D:\code gym\module 2\test\C# Nhập xuất cơ bản\Nhap_xuat_co_ban\Vi_du\bin\Debug\netcoreapp2.1\Vi_du.runtimeconfig.dev.json
+D:\code gym\module 2\test\C# Nhập xuất cơ bản\Nhap_xuat_co_ban\Vi_du\bin\Debug\netcoreapp2.1\Vi_du.dll
+D:\code gym\module 2\test\C# Nhập xuất cơ bản\Nhap_xuat_co_ban\Vi_du\bin\Debug\netcoreapp2.1\Vi_du.pdb
+D:\code gym\module 2\test\C# Nhập xuất cơ bản\Nhap_xuat_co_ban\Vi_du\obj\Debug\netcoreapp2.1\Vi_du.csproj.CoreCompileInputs.cache
+D:\code gym\module 2\test\C# Nhập xuất cơ bản\Nhap_xuat_co_ban\Vi_du\obj\Debug\netcoreapp2.1\Vi_du.AssemblyInfoInputs.cache
+D:\code gym\module 2\test\C# Nhập xuất cơ bản\Nhap_xuat_co_ban\Vi_du\obj\Debug\netcoreapp2.1\Vi_du.AssemblyInfo.cs
+D:\code gym\module 2\test\C# Nhập xuất cơ bản\Nhap_xuat_co_ban\Vi_du\obj\Debug\netcoreapp2.1\Vi_du.dll
+D:\code gym\module 2\test\C# Nhập xuất cơ bản\Nhap_xuat_co_ban\Vi_du\obj\Debug\netcoreapp2.1\Vi_du.pdb

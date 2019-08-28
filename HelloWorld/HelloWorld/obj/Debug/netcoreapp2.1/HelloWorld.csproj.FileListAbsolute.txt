@@ -1,0 +1,11 @@
+D:\code gym\module 2\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.deps.json
+D:\code gym\module 2\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.runtimeconfig.json
+D:\code gym\module 2\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.runtimeconfig.dev.json
+D:\code gym\module 2\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.dll
+D:\code gym\module 2\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.pdb
+D:\code gym\module 2\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.csprojAssemblyReference.cache
+D:\code gym\module 2\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.csproj.CoreCompileInputs.cache
+D:\code gym\module 2\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.AssemblyInfoInputs.cache
+D:\code gym\module 2\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.AssemblyInfo.cs
+D:\code gym\module 2\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.dll
+D:\code gym\module 2\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.pdb

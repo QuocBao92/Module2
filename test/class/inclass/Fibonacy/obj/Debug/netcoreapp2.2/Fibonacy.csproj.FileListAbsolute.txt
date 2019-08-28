@@ -1,0 +1,11 @@
+D:\code gym\module 2\test\class\inclass\Fibonacy\bin\Debug\netcoreapp2.2\Fibonacy.deps.json
+D:\code gym\module 2\test\class\inclass\Fibonacy\bin\Debug\netcoreapp2.2\Fibonacy.runtimeconfig.json
+D:\code gym\module 2\test\class\inclass\Fibonacy\bin\Debug\netcoreapp2.2\Fibonacy.runtimeconfig.dev.json
+D:\code gym\module 2\test\class\inclass\Fibonacy\bin\Debug\netcoreapp2.2\Fibonacy.dll
+D:\code gym\module 2\test\class\inclass\Fibonacy\bin\Debug\netcoreapp2.2\Fibonacy.pdb
+D:\code gym\module 2\test\class\inclass\Fibonacy\obj\Debug\netcoreapp2.2\Fibonacy.csprojAssemblyReference.cache
+D:\code gym\module 2\test\class\inclass\Fibonacy\obj\Debug\netcoreapp2.2\Fibonacy.csproj.CoreCompileInputs.cache
+D:\code gym\module 2\test\class\inclass\Fibonacy\obj\Debug\netcoreapp2.2\Fibonacy.AssemblyInfoInputs.cache
+D:\code gym\module 2\test\class\inclass\Fibonacy\obj\Debug\netcoreapp2.2\Fibonacy.AssemblyInfo.cs
+D:\code gym\module 2\test\class\inclass\Fibonacy\obj\Debug\netcoreapp2.2\Fibonacy.dll
+D:\code gym\module 2\test\class\inclass\Fibonacy\obj\Debug\netcoreapp2.2\Fibonacy.pdb

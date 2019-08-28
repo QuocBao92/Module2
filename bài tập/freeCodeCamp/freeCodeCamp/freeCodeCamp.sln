@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "freeCodeCamp", "freeCodeCamp\freeCodeCamp.csproj", "{DFA7FDA7-3B28-4839-BCE5-18AAD6C58B0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFA7FDA7-3B28-4839-BCE5-18AAD6C58B0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFA7FDA7-3B28-4839-BCE5-18AAD6C58B0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFA7FDA7-3B28-4839-BCE5-18AAD6C58B0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFA7FDA7-3B28-4839-BCE5-18AAD6C58B0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {432BE2B3-CBFB-41CE-8FCA-CD7849ECCED9}
+	EndGlobalSection
+EndGlobal

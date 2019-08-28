@@ -1,0 +1,10 @@
+D:\code gym\module 2\test\class\inclass\ConsoleApp1\bin\Debug\netcoreapp2.2\De_Qui.deps.json
+D:\code gym\module 2\test\class\inclass\ConsoleApp1\bin\Debug\netcoreapp2.2\De_Qui.runtimeconfig.json
+D:\code gym\module 2\test\class\inclass\ConsoleApp1\bin\Debug\netcoreapp2.2\De_Qui.runtimeconfig.dev.json
+D:\code gym\module 2\test\class\inclass\ConsoleApp1\bin\Debug\netcoreapp2.2\De_Qui.dll
+D:\code gym\module 2\test\class\inclass\ConsoleApp1\bin\Debug\netcoreapp2.2\De_Qui.pdb
+D:\code gym\module 2\test\class\inclass\ConsoleApp1\obj\Debug\netcoreapp2.2\De_Qui.csproj.CoreCompileInputs.cache
+D:\code gym\module 2\test\class\inclass\ConsoleApp1\obj\Debug\netcoreapp2.2\De_Qui.AssemblyInfoInputs.cache
+D:\code gym\module 2\test\class\inclass\ConsoleApp1\obj\Debug\netcoreapp2.2\De_Qui.AssemblyInfo.cs
+D:\code gym\module 2\test\class\inclass\ConsoleApp1\obj\Debug\netcoreapp2.2\De_Qui.dll
+D:\code gym\module 2\test\class\inclass\ConsoleApp1\obj\Debug\netcoreapp2.2\De_Qui.pdb

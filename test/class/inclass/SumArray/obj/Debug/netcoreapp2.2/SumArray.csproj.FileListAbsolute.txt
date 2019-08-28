@@ -1,0 +1,10 @@
+D:\code gym\module 2\test\class\inclass\SumArray\bin\Debug\netcoreapp2.2\SumArray.deps.json
+D:\code gym\module 2\test\class\inclass\SumArray\bin\Debug\netcoreapp2.2\SumArray.runtimeconfig.json
+D:\code gym\module 2\test\class\inclass\SumArray\bin\Debug\netcoreapp2.2\SumArray.runtimeconfig.dev.json
+D:\code gym\module 2\test\class\inclass\SumArray\bin\Debug\netcoreapp2.2\SumArray.dll
+D:\code gym\module 2\test\class\inclass\SumArray\bin\Debug\netcoreapp2.2\SumArray.pdb
+D:\code gym\module 2\test\class\inclass\SumArray\obj\Debug\netcoreapp2.2\SumArray.csproj.CoreCompileInputs.cache
+D:\code gym\module 2\test\class\inclass\SumArray\obj\Debug\netcoreapp2.2\SumArray.AssemblyInfoInputs.cache
+D:\code gym\module 2\test\class\inclass\SumArray\obj\Debug\netcoreapp2.2\SumArray.AssemblyInfo.cs
+D:\code gym\module 2\test\class\inclass\SumArray\obj\Debug\netcoreapp2.2\SumArray.dll
+D:\code gym\module 2\test\class\inclass\SumArray\obj\Debug\netcoreapp2.2\SumArray.pdb

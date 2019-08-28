@@ -1,0 +1,11 @@
+D:\code gym\module 2\test\class\inclass\Bubble Sort\bin\Debug\netcoreapp2.2\Bubble Sort.deps.json
+D:\code gym\module 2\test\class\inclass\Bubble Sort\bin\Debug\netcoreapp2.2\Bubble Sort.runtimeconfig.json
+D:\code gym\module 2\test\class\inclass\Bubble Sort\bin\Debug\netcoreapp2.2\Bubble Sort.runtimeconfig.dev.json
+D:\code gym\module 2\test\class\inclass\Bubble Sort\bin\Debug\netcoreapp2.2\Bubble Sort.dll
+D:\code gym\module 2\test\class\inclass\Bubble Sort\bin\Debug\netcoreapp2.2\Bubble Sort.pdb
+D:\code gym\module 2\test\class\inclass\Bubble Sort\obj\Debug\netcoreapp2.2\Bubble Sort.csprojAssemblyReference.cache
+D:\code gym\module 2\test\class\inclass\Bubble Sort\obj\Debug\netcoreapp2.2\Bubble Sort.csproj.CoreCompileInputs.cache
+D:\code gym\module 2\test\class\inclass\Bubble Sort\obj\Debug\netcoreapp2.2\Bubble Sort.AssemblyInfoInputs.cache
+D:\code gym\module 2\test\class\inclass\Bubble Sort\obj\Debug\netcoreapp2.2\Bubble Sort.AssemblyInfo.cs
+D:\code gym\module 2\test\class\inclass\Bubble Sort\obj\Debug\netcoreapp2.2\Bubble Sort.dll
+D:\code gym\module 2\test\class\inclass\Bubble Sort\obj\Debug\netcoreapp2.2\Bubble Sort.pdb
