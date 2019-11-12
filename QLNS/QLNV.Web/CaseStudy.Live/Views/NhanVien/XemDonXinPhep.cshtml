@@ -1,0 +1,66 @@
+﻿@model IEnumerable<CaseStudy.Live.Models.NhanVien.Response.DonXinPhepView>
+
+@{
+    ViewData["Title"] = "XemDonXinPhep";
+}
+
+<h3>Xem Đơn Xin Phép</h3>
+
+<p>
+    @foreach (var item in Model)
+    {
+        @Html.ActionLink("Tạo Đơn Xin Phép", "TaoDonXinPhep", new { id = item.NhanVienId })
+        break;
+    }
+</p>
+<table class="table table-bordered table-hover">
+    <thead class="thead-dark">
+        <tr>
+
+            <th>
+                @Html.DisplayNameFor(model => model.TinhTrang)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NgayBatDau)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NgayKetThuc)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.NgayGui)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NgayPhanHoi)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.TinhTrang)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NgayBatDau)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NgayKetThuc)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NgayGui)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NgayPhanHoi)
+            </td>
+
+            <td>
+                <a asp-route-id="@item.Id" asp-controller="NhanVien" asp-action="ChiTietDonXinPhep" title="Xem chi tiết"><i class="fa fa-eye px-sm-2"></i></a>
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>
